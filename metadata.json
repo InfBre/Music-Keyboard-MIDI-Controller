@@ -1,0 +1,6 @@
+{
+  "name": "Music Keyboard & MIDI Controller",
+  "description": "An interactive digital piano, drum synthesizer, and DJ backing stems dashboard with physical keyboard triggers and supporting Web MIDI DAW routing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
